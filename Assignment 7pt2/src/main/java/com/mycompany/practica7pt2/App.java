@@ -25,6 +25,7 @@ public class App {
         }while(true);
         System.out.println("Ingrese el valor magico:");
         nm=read.nextInt();
+        System.out.println("qwe");
         
         masq= new int[len][len];
         boolean flag=false;
